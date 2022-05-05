@@ -3,6 +3,10 @@ node_modules
 dist
 .npmrc
 .cache
+.github
+.idea
+.vscode
+yarn.lock
 
 tests/server/static
 tests/server/static/upload
